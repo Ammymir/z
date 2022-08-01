@@ -1,0 +1,16 @@
+body {
+  background-color: white ;
+
+}
+h2 { color:Grey; }
+hr {
+      border-style:none;
+      border-top: Dashed;
+      border-color: Black;
+      height: 10px;
+      width: 50%;
+
+}
+a {
+  color: Purple;
+}
